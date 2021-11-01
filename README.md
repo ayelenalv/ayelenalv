@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/88/99/fd889901addf2a8098efc8a1d3d5ee1b.png" />
+<img width="55%" align="right" alt="Github" src="https://i.pinimg.com/originals/ba/d3/a5/bad3a50409fa693af95d368f0ad43380.jpg" />
 
 
 - 🔭 I’m currently working on finish the SoyHenry bootcamp
