@@ -16,12 +16,12 @@
 <img width="55%" align="right" alt="Github" src="https://i.pinimg.com/originals/ba/d3/a5/bad3a50409fa693af95d368f0ad43380.jpg" />
 
 
-- 🔭 I’m currently working on finish the SoyHenry bootcamp
+- 🔭 I’m currently working on Anclap.
 
-- 🌱 I’m currently learning  JavaScript, HTML, CSS, React.JS, Express, Redux, Node.JS, and more!😄 
+- 🌱 I’m currently learning  Solidity, React.JS, Redux, Node.JS, and more!😄 
 
 
-- 👯 I’m looking to collaborate on Projects 
+- 👯 I’m looking to collaborate on Freelance Projects 
 
 - 💬 Talk to me about code, movies and cats! 
 
